@@ -30,5 +30,5 @@ More info https://github.com/dfalveargOT/RobotPlanningControl.git
 
 A course designed to understand the mathematical foundations of machine learning and the hands-on application in diverse real-world scenarios. It was structured to understand the mathematical tools of machine learning algorithms, how to apply ML tools in real-world data science problems, and how to translate machine learning problems into a mathematical framework. The course covered statistical foundations, clustering, regression, classification, and different types of neural networks with images and natural language processing examples. The course project improved a motion planner that uses graph neural networks to determine trajectories in a robotics context.
 
- More info https://github.com/dfalveargOT/MathFoundations_MachineLearning.git
+More info https://github.com/dfalveargOT/MathFoundations_MachineLearning.git
 

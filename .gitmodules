@@ -1,3 +1,15 @@
 [submodule "DeepLearning_VisualComputing"]
 	path = DeepLearning_VisualComputing
 	url = https://github.com/dfalveargOT/DeepLearning_VisualComputing.git
+[submodule "Numerical_Optimization"]
+	path = Numerical_Optimization
+	url = https://github.com/dfalveargOT/Numerical_Optimization
+[submodule "ControlTheory"]
+	path = ControlTheory
+	url = https://github.com/dfalveargOT/ControlTheory.git
+[submodule "RobotPlanningControl"]
+	path = RobotPlanningControl
+	url = https://github.com/dfalveargOT/RobotPlanningControl.git
+[submodule "MathFoundations_MachineLearning"]
+	path = MathFoundations_MachineLearning
+	url = https://github.com/dfalveargOT/MathFoundations_MachineLearning.git
